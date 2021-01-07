@@ -1,6 +1,13 @@
 ![NASA1515's github stats](https://github-readme-stats.vercel.app/api?username=nasa1515&show_icons=true)
 
-
+<div>
+    <img 
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnasa1515"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img 
+        src="https://img.shields.io/github/followers/nasa1515?label=AlpoxDev%20Followers&style=social"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</div>
 
 <div align=center>
 
