@@ -9,14 +9,23 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
+## NASA1515 (Lee Wonseok) : DevOps Engineer
 
-### DevOps Engineer
+Azure, GCP를 주로 사용하는 CLOUD NATIVE 기반의 DevOps Engineer 입니다.
 
-### Interest
+## Stack
+
+- GCP
+- AZURE
+- LINUX
+- PYTHON
 
 
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nasa1515.github.io/)](https://nasa1515.github.io) 
+<a href="https://nasa1515.github.io/">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://nasa1515.github.io/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:h43254@gmail.com)](mailto:h43254@gmail.com)
 </div>
