@@ -5,23 +5,16 @@
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnasa1515"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     <img 
-        src="https://img.shields.io/github/followers/nasa1515?label=AlpoxDev%20Followers&style=social"
+        src="https://img.shields.io/github/followers/nasa1515?label=nasa1515%20Followers&style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnasa1515&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%232C34C6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-</div>
 
 ### DevOps Engineer
 
 ### Interest
 
 
-<div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nasa1515.github.io/)](https://nasa1515.github.io) 
 
