@@ -9,9 +9,9 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-## NASA1515 (Lee Wonseok) : DevOps Engineer
+## NASA1515 (Lee Wonseok) : Cloud Data Engineer
 
-Azure, GCP를 주로 사용하는 CLOUD NATIVE 기반의 DevOps Engineer 입니다.
+Azure, GCP를 주로 사용하는 CLOUD NATIVE 기반의 Data Engineer 입니다.
 
 ## Stack
 
@@ -19,6 +19,8 @@ Azure, GCP를 주로 사용하는 CLOUD NATIVE 기반의 DevOps Engineer 입니�
 - AZURE
 - LINUX
 - PYTHON
+- Pyspark
+- Kubernetes & Docker
 
 
 <a href="https://nasa1515.github.io/">
