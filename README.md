@@ -23,9 +23,9 @@ Azure, GCP를 주로 사용하는 CLOUD NATIVE 기반의 Data Engineer 입니다
 - Kubernetes & Docker
 
 
-<a href="https://nasa1515.github.io/">
+<a href="https://nasa1515.com/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://nasa1515.github.io/"
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://nasa1515.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
