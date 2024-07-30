@@ -1,6 +1,6 @@
 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I'm%20NASA1515&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I am NASA1515%20amfontSize=90&animation=fadeIn&fontAlignY=38&desc=learning%20and%20Working%20up%20Data%20Enginnering%20From%20Korea!&descAlignY=51&descAlign=62"/>
 </p>
 
 <div align = "center">
