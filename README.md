@@ -10,8 +10,6 @@
 
 <br/>
 
-![NASA1515's github stats](https://github-readme-stats.vercel.app/api?username=nasa1515&show_icons=true&theme=radical)![LeetCode Stats](https://leetcode.card.workers.dev/nasa1515?theme=nord&font=&extension=null)
-
 ### 📖 Use.. Stack 📖
  <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Bash,Shell-A9A9A9?style=flat-square&logo=gnubash&logoColor=white"/><img src="https://img.shields.io/badge/Spark-FF7F50?style=flat-square&logo=apachespark&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
  
@@ -22,6 +20,9 @@
 ### 📖 Studing.. Stack 📖
 
 <img src="https://img.shields.io/badge/Docker-4479A1?style=flat-square&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/Kubernetes-4479A1?style=flat-square&logo=kubernetes&logoColor=white"/>
+
+
+![NASA1515's github stats](https://github-readme-stats.vercel.app/api?username=nasa1515&show_icons=true&theme=radical)![LeetCode Stats](https://leetcode.card.workers.dev/nasa1515?theme=nord&font=&extension=null)
 
 </div>
 
