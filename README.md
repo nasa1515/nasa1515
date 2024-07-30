@@ -7,7 +7,7 @@
 
 ### 🖐 Hi there! 🖐
 ### I'm Junior Data Engineer Developer
-### Meet from <div align = "center">
+My Blog and Contact from <div align = "center">
 <a href="https://nasa1515.com/"><img src="https://img.shields.io/badge/DevBlog-6799FF?style=flat-square&logo=Micro.blog&logoColor=white"/><a href="mailto:ws.nasa1515@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <br/>
