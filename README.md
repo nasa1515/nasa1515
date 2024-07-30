@@ -23,7 +23,7 @@ My Blog and Contact from <div align = "center">
 <img src="https://img.shields.io/badge/Docker-4479A1?style=flat-square&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/Kubernetes-4479A1?style=flat-square&logo=kubernetes&logoColor=white"/>
 
 
-![NASA1515's github stats](https://github-readme-stats.vercel.app/api?username=nasa1515&show_icons=true&theme=radical)![LeetCode Stats](https://leetcode.card.workers.dev/nasa1515?theme=nord&font=&extension=null)
+![NASA1515's github stats](https://github-readme-stats.vercel.app/api?username=nasa1515&show_icons=true&theme=radical)![LeetCode Stats](https://leetcode.card.workers.dev/nasa1515?theme=auto&font=baloo&extension=null)
 
 </div>
 
