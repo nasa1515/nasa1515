@@ -25,5 +25,8 @@ My Blog and Contact from <div align = "center">
 
 ![NASA1515's github stats](https://github-readme-stats.vercel.app/api?username=nasa1515&show_icons=true&theme=radical)![LeetCode Stats](https://leetcode.card.workers.dev/nasa1515?theme=auto&font=baloo&extension=null)
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=nasa1515&show_icons=true&theme=radical" width="45%" /><img src="https://leetcode.card.workers.dev/nasa1515?theme=nord&font=&extension=null" width="45%" />
+
 </div>
 
