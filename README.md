@@ -13,6 +13,7 @@ My Blog and Contact from <div align = "center">
 <br/>
 
 ### 📖 Use.. Stack 📖
+
  <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Bash,Shell-A9A9A9?style=flat-square&logo=gnubash&logoColor=white"/><img src="https://img.shields.io/badge/Spark-FF7F50?style=flat-square&logo=apachespark&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Databricks-FF0000?style=flat-square&logo=databricks&logoColor=white"/><img src="https://img.shields.io/badge/Azure-1E90FF?style=flat-square&logo=icloud&logoColor=white"/><img src="https://img.shields.io/badge/GCP-FFE5CC?style=flat-square&logo=googlecloud&logoColor=white"/>
 
 <br/>
