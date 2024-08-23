@@ -39,7 +39,10 @@ My Blog and Contact from
 <p align="center">
     <img src="https://img.shields.io/badge/Docker-4479A1?&logo=docker&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Kubernetes-lightgray?&logo=kubernetes&logoColor=white"/>&nbsp
-    <br/>
+</p>
+
+### 🧘🏻‍♂️ Learn.. 🧘🏻‍♂️
+
     <img src="https://github-readme-stats.vercel.app/api?username=nasa1515&show_icons=true&theme=radical" width="50%" /><img src="https://leetcode.card.workers.dev/nasa1515?theme=nord&font=&extension=null" width="50%" />
 </p>
 
