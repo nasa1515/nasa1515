@@ -10,8 +10,8 @@
 My Blog and Contact from 
 
 <div align = "center">
-    <a href="https://nasa1515.com/"><img src="https://img.shields.io/badge/DevBlog-6799FF?&logo=Micro.blog&logoColor=white"/>&nbsp
-    <a href="mailto:ws.nasa1515@gmail.com"><img src="https://img.shields.io/badge/Gmail-D44638?&logo=Gmail&logoColor=white"/>&nbsp
+    <a href="https://nasa1515.com/"> <img src="https://img.shields.io/badge/DevBlog-6799FF?&logo=Micro.blog&logoColor=white"/>&nbsp
+    <a href="mailto:ws.nasa1515@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D44638?&logo=Gmail&logoColor=white"/>&nbsp
 </div> 
 
 
