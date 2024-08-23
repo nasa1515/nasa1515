@@ -7,8 +7,13 @@
 
 ### 🖐 Hi there! 🖐
 ### I'm Junior Data Engineer Developer
-My Blog and Contact from <div align = "center">
-<a href="https://nasa1515.com/"><img src="https://img.shields.io/badge/DevBlog-6799FF?style=flat-square&logo=Micro.blog&logoColor=white"/><a href="mailto:ws.nasa1515@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=Gmail&logoColor=white"/>
+My Blog and Contact from 
+
+<div align = "center">
+    <a href="https://nasa1515.com/"><img src="https://img.shields.io/badge/DevBlog-6799FF?&logo=Micro.blog&logoColor=white"/>&nbsp
+    <a href="mailto:ws.nasa1515@gmail.com"><img src="https://img.shields.io/badge/Gmail-D44638?&logo=Gmail&logoColor=white"/>&nbsp
+</div> 
+
 
 <br/>
 
@@ -19,7 +24,7 @@ My Blog and Contact from <div align = "center">
     <img src="https://img.shields.io/badge/PySpark-FF7F50?&logo=apachespark&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Bash,Shell-A9A9A9?&logo=gnubash&logoColor=white"/>&nbsp
     <br>
-    <img src="https://img.shields.io/badge/MariaDB-003545&logo=MariaDB&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/MariaDB-4479A1&logo=mariadb&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/>&nbsp
     <br>
     <img src="https://img.shields.io/badge/Azure-1E90FF?&logo=icloud&logoColor=white"/>&nbsp
