@@ -14,7 +14,7 @@ My Blog and Contact from <div align = "center">
 
 ### 📖 Use.. Stack 📖
 
- <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Bash,Shell-A9A9A9?style=flat-square&logo=gnubash&logoColor=white"/><img src="https://img.shields.io/badge/Spark-FF7F50?style=flat-square&logo=apachespark&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Databricks-FF0000?style=flat-square&logo=databricks&logoColor=white"/><img src="https://img.shields.io/badge/Azure-1E90FF?style=flat-square&logo=icloud&logoColor=white"/><img src="https://img.shields.io/badge/GCP-FFE5CC?style=flat-square&logo=googlecloud&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Python-007396?&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Bash,Shell-A9A9A9?style=flat-square&logo=gnubash&logoColor=white"/><img src="https://img.shields.io/badge/Spark-FF7F50?style=flat-square&logo=apachespark&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Databricks-FF0000?style=flat-square&logo=databricks&logoColor=white"/><img src="https://img.shields.io/badge/Azure-1E90FF?style=flat-square&logo=icloud&logoColor=white"/><img src="https://img.shields.io/badge/GCP-FFE5CC?style=flat-square&logo=googlecloud&logoColor=white"/>
 
 <br/>
 
@@ -26,4 +26,8 @@ My Blog and Contact from <div align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=nasa1515&show_icons=true&theme=radical" width="50%" /><img src="https://leetcode.card.workers.dev/nasa1515?theme=nord&font=&extension=null" width="50%" />
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=footer" alt="footer">
+</p>
 
