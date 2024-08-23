@@ -6,7 +6,7 @@
 <div align = "center">
 
 ### 🖐 Hi there! 🖐
-### I'm Junior Data Engineer Developer
+### I'm Junior Data Engineer Developer 🌱
 My Blog and Contact from 
 
 <div align = "center">
