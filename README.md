@@ -41,9 +41,13 @@ My Blog and Contact from
     <img src="https://img.shields.io/badge/Kubernetes-lightgray?&logo=kubernetes&logoColor=white"/>&nbsp
 </p>
 
+<h3 align="center">•••</h3>
+
 ### 🧘🏻‍♂️ Learn.. 🧘🏻‍♂️
 
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=nasa1515&show_icons=true&theme=radical" width="50%" /><img src="https://leetcode.card.workers.dev/nasa1515?theme=nord&font=&extension=null" width="50%" />
+    
 </p>
 
 </div>
