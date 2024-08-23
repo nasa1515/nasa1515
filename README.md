@@ -16,13 +16,18 @@ My Blog and Contact from <div align = "center">
 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-007396?&logo=Python&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/PySpark-FF7F50?&logo=apachespark&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Bash,Shell-A9A9A9?&logo=gnubash&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Spark-FF7F50?&logo=apachespark&logoColor=white"/>&nbsp
+    <br>
+    <img src="https://img.shields.io/badge/MariaDB-003545&logo=MariaDB&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Databricks-FF0000?&logo=databricks&logoColor=white"/>&nbsp
+    <br>
     <img src="https://img.shields.io/badge/Azure-1E90FF?&logo=icloud&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/GCP-FFE5CC?&logo=googlecloud&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Databricks-FF0000?&logo=databricks&logoColor=white"/>&nbsp
 </p>
+
+<h3 align="center">•••</h3>
 
 <br/>
 
