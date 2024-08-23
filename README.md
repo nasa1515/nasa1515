@@ -14,7 +14,15 @@ My Blog and Contact from <div align = "center">
 
 ### 📖 Use.. Stack 📖
 
- <img src="https://img.shields.io/badge/Python-007396?&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Bash,Shell-A9A9A9?style=flat-square&logo=gnubash&logoColor=white"/><img src="https://img.shields.io/badge/Spark-FF7F50?style=flat-square&logo=apachespark&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Databricks-FF0000?style=flat-square&logo=databricks&logoColor=white"/><img src="https://img.shields.io/badge/Azure-1E90FF?style=flat-square&logo=icloud&logoColor=white"/><img src="https://img.shields.io/badge/GCP-FFE5CC?style=flat-square&logo=googlecloud&logoColor=white"/>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-007396?&logo=Python&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Bash,Shell-A9A9A9?&logo=gnubash&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Spark-FF7F50?&logo=apachespark&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Databricks-FF0000?&logo=databricks&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Azure-1E90FF?&logo=icloud&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/GCP-FFE5CC?&logo=googlecloud&logoColor=white"/>&nbsp
+</p>
 
 <br/>
 
